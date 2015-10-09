@@ -65,7 +65,7 @@ brew install webkit2png
 brew install zopfli
 brew install tree
 brew install terminal-notifier
-brew install node
+brew install graphicsmagick
 
 # Remove outdated versions from the cellar.
 brew cleanup

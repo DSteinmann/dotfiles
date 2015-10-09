@@ -21,8 +21,8 @@ brew cask install rescuetime
 brew cask install antetype
 brew cask install colorpicker-antetype
 brew cask install iterm2
-brew cask install sublime-text
 brew cask install phpstorm
+brew cask install atom
 brew cask install imagealpha
 brew cask install imageoptim
 
@@ -30,6 +30,7 @@ brew cask install imageoptim
 brew cask install limechat
 brew cask install miro-video-converter
 brew cask install horndis               # usb tethering
+brew cask install spotify
 
 # browsers
 brew cask install google-chrome-canary

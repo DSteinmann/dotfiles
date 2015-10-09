@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-# to maintain cask .... 
-#     brew update && brew upgrade brew-cask && brew cleanup && brew cask cleanup` 
+# to maintain cask ....
+#     brew update && brew upgrade brew-cask && brew cleanup && brew cask cleanup`
 
 
 # Install native apps
@@ -22,6 +22,7 @@ brew cask install antetype
 brew cask install colorpicker-antetype
 brew cask install iterm2
 brew cask install sublime-text
+brew cask install phpstorm
 brew cask install imagealpha
 brew cask install imageoptim
 
@@ -42,4 +43,3 @@ brew cask install screenflow4 # 4 specifically not 5.
 brew cask install vlc
 brew cask install gpgtools
 brew cask install licecap
-

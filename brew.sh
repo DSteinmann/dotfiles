@@ -66,7 +66,6 @@ brew install zopfli
 brew install tree
 brew install terminal-notifier
 brew install node
-brew install 
 
 # Remove outdated versions from the cellar.
 brew cleanup

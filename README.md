@@ -89,9 +89,9 @@ Suggestions/improvements
 
 ## Author
 
-| [![twitter/mathias](http://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](http://twitter.com/DomSteinman "Follow @DomSteinman on Twitter") |
+| [![twitter/DomSteinmann](http://twitter.com/DomSteinman "Follow @DomSteinman on Twitter") |
 |---|
-| [Mathias Bynens](https://steinmann.io/) |
+| [Dominik Steinmann](https://steinmann.io/) |
 
 ## Thanks to…
 

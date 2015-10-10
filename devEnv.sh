@@ -17,3 +17,6 @@ npm install -g generator-webapp
 
 #install SASS
 sudo gem install sass
+
+#change to bash4
+chsh -s /usr/local/bin/bash
